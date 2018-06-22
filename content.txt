@@ -1,2 +1,4 @@
 master
 dev-1
+hotfix-1
+dev-2
